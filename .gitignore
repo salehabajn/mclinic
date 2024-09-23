@@ -9,6 +9,16 @@
 .history
 .svn/
 migrate_working_dir/
+.idea/
+.android/
+.build/
+.ios/
+.test/
+.metadata/
+.analysis_options.yaml/
+.clinic.iml/
+.pubspec.lock/
+.README.md/
 
 
 # IntelliJ related

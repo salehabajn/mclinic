@@ -61,6 +61,9 @@ class _SignUpScreenState extends State<SignUpScreen> {
               Positioned(top: 540,
                   child: AppButton(text: "انشاء حساب", event: (){
                   })),
+              Positioned(top: 540,
+                  child: AppButton(text: "انشاء حساب", event: (){
+                  })),
               Positioned(top: 50,
                   child: Text("مرحبا بك \n في مركز بن عجاج الحديث لطب الاسنان",style: TextStyle(color: Colors.white,fontSize: 18,fontWeight: FontWeight.bold),)),
             ] ),
